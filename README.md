@@ -1,5 +1,4 @@
 ![alt tag](https://boroveen.github.io/jpeg/Screenshot-i3gaps.png ".")​
-![alt tag](https://boroveen.github.io/video/прикольно.gif "./test")​
 boroveen.github.io/jpeg/Screenshot-i3gaps.png
 # Ubuntu
 ```
