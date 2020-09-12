@@ -1,3 +1,5 @@
+![alt tag](https://boroveen.github.io/jpeg/Screenshot-i3gaps.png".")​
+boroveen.github.io/jpeg/Screenshot-i3gaps.png
 # Ubuntu
 ```
 sudo apt-get install libncurses-dev
