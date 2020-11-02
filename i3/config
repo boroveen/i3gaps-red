@@ -26,10 +26,11 @@ font pango:monospace 8
 # X core fonts rendering does not support right-to-left and this being a bitmap
 # font, it doesn’t scale on retina/hidpi displays.
 
-exec compton 
+exec compton
+#exec xcompmgr
 #--config ~/.config/compton.conf
 exec sh ~/.fehbg &
-exec gnome-terminal
+#exec gnome-terminal --hide-menubar
 exec rofi -show run
 
 # Use Mouse+$mod to drag floating windows to their wanted position
